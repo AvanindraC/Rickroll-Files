@@ -8,3 +8,6 @@ I believe the executables will be less suspicious, so I generally reccomend them
 I have also included the source code (the .go files) if anyone wants them
 
 MacOs support coming soon
+
+
+
